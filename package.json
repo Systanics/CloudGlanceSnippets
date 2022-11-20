@@ -1,0 +1,27 @@
+{
+  "name": "cloudglancesnippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Systanics/CloudGlanceSnippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Systanics/CloudGlanceSnippets/issues"
+  },
+  "homepage": "https://github.com/Systanics/CloudGlanceSnippets#readme",
+  "dependencies": {
+    "@aws-sdk/client-sso": "^3.212.0",
+    "@aws-sdk/client-sso-oidc": "^3.212.0",
+    "aws-sdk": "^2.1257.0",
+    "inquirer": "^8.2.3",
+    "open": "^8.4.0",
+    "shelljs": "^0.8.5"
+  }
+}
